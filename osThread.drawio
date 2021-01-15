@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T11:00:56.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="7La_EHLSmn8P3zRgA4j_" version="14.1.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-15T09:33:36.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="G4SPVlyj6lMxQaCo0jc6" version="14.2.2" type="github" pages="4">
   <diagram id="dfUOYU3nvCvd80Qgg6J4" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -395,6 +395,200 @@
         </mxCell>
         <mxCell id="CEcqncnBPIk6HU4p2-5_-32" value="质量管控线程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontStyle=1" parent="CEcqncnBPIk6HU4p2-5_-1" vertex="1">
           <mxGeometry x="569.5" y="115" width="130" height="28" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="J0k5hE_PBw7pLCtqpTiv" name="Page-4">
+    <mxGraphModel dx="1422" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-0" />
+        <mxCell id="486LeeDwOUmoNTxXMSYI-1" parent="486LeeDwOUmoNTxXMSYI-0" />
+        <mxCell id="486LeeDwOUmoNTxXMSYI-76" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=left;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="711" y="658" width="348" height="261" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-74" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=left;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="364" y="658" width="347" height="261" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-72" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=left;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="711" y="397" width="348" height="261" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-68" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=left;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="364" y="397" width="347" height="261" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-63" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=left;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="711" y="136" width="348" height="261" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-62" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=left;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="364" y="136" width="347" height="261" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-9" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="511" y="196" width="183" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-2" value="张三" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="451" y="263" width="33" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-3" value="" style="image;html=1;image=img/lib/clip_art/people/Doctor_Woman_128x128.png" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="604" y="201" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="511" y="292" width="183" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-13" value="" style="image;html=1;image=img/lib/clip_art/people/Doctor_Woman_128x128.png" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="604" y="297" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-20" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="854" y="194" width="183" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-21" value="张三" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="884" y="205" width="33" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-22" value="" style="image;html=1;image=img/lib/clip_art/people/Doctor_Woman_128x128.png" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="947" y="199" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-23" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="854" y="291" width="183" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-24" value="" style="image;html=1;image=img/lib/clip_art/people/Doctor_Woman_128x128.png" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="940" y="289" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-27" value="&lt;div style=&quot;&quot;&gt;&lt;span&gt;张三接种疫苗，相当于执行了P操作，信号量-1，&lt;/span&gt;&lt;/div&gt;&lt;span&gt;只剩下一个医生了&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="784" y="150" width="269" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-32" value="&lt;span&gt;目前两个医生，相当于两个信号量&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="504" y="150" width="190" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-33" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="511" y="457" width="183" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-34" value="张三" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="545" y="465" width="33" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-35" value="" style="image;html=1;image=img/lib/clip_art/people/Doctor_Woman_128x128.png" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="604" y="462" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-36" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="511" y="553" width="183" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-37" value="" style="image;html=1;image=img/lib/clip_art/people/Doctor_Woman_128x128.png" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="604" y="558" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-38" value="&lt;div&gt;此时李四来了，还剩一个医生，&lt;/div&gt;&lt;div&gt;李四可以进行接种疫苗&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="522" y="408" width="178" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-40" value="李四" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="451" y="513" width="33" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-41" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="854" y="457" width="183" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-42" value="张三" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="888" y="465" width="33" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-43" value="" style="image;html=1;image=img/lib/clip_art/people/Doctor_Woman_128x128.png" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="947" y="462" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-44" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="854" y="553" width="183" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-45" value="" style="image;html=1;image=img/lib/clip_art/people/Doctor_Woman_128x128.png" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="947" y="558" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-46" value="&lt;div&gt;李四接种疫苗，相当于执行了P操作，信号量-1，&lt;/div&gt;没有医生了" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="795" y="410.5" width="269" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-48" value="李四" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="888" y="564" width="33" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-50" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="511" y="719" width="183" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-51" value="张三" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="545" y="727" width="33" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-52" value="" style="image;html=1;image=img/lib/clip_art/people/Doctor_Woman_128x128.png" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="604" y="724" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-53" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="511" y="815" width="183" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-54" value="" style="image;html=1;image=img/lib/clip_art/people/Doctor_Woman_128x128.png" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="604" y="820" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-55" value="&lt;div&gt;此时小明也来，但是资源是0，没有空闲的医生了，&lt;/div&gt;&lt;div&gt;相当于执行了P操作，信号量-1，结果是-1，阻塞了&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="421" y="676" width="281" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-57" value="小明" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="451" y="775" width="33" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-58" value="李四" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="545" y="824" width="33" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-66" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_1_blue-128.png;strokeWidth=2;align=left;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="361" y="141" width="53" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-67" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_2_blue-128.png;strokeWidth=2;align=left;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="709" y="139" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-70" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_4_blue-128.png;strokeWidth=2;align=left;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="364" y="399" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-73" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_5_blue-128.png;strokeWidth=2;align=left;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="711" y="399" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-77" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_6_blue-128.png;strokeWidth=2;align=left;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="364" y="658" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-78" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="854" y="719" width="183" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-79" value="" style="image;html=1;image=img/lib/clip_art/people/Doctor_Woman_128x128.png" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="947" y="724" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-80" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="854" y="815" width="183" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-81" value="" style="image;html=1;image=img/lib/clip_art/people/Doctor_Woman_128x128.png" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="947" y="820" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-82" value="李四" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="888" y="824" width="33" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-83" value="小明" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="802" y="775" width="33" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-84" value="此时张三接种疫苗完成，执行了V操作，信号量+1，&lt;br&gt;相当于有一位医生空闲了" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="784" y="676" width="284" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-85" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_7_blue-128.png;strokeWidth=2;align=left;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="716" y="664.5" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-86" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=left;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="364" y="919" width="695" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-87" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="619" y="924.5" width="183" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-88" value="" style="image;html=1;image=img/lib/clip_art/people/Doctor_Woman_128x128.png" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="712" y="929.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-89" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="619" y="1020.5" width="183" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-90" value="" style="image;html=1;image=img/lib/clip_art/people/Doctor_Woman_128x128.png" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="712" y="1025.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-91" value="李四" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="653" y="1029.5" width="33" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-93" value="小明" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="653" y="929.5" width="33" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-94" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_8_blue-128.png;strokeWidth=2;align=left;" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="490" y="987" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="486LeeDwOUmoNTxXMSYI-95" value="此时因为有空闲医生了，小明不再阻塞等待，&lt;br&gt;直接进入接种，这里不会再减了，&lt;span&gt;因为之前&lt;br&gt;减过了，信号量是0（第七步加1了）&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="486LeeDwOUmoNTxXMSYI-1">
+          <mxGeometry x="809" y="996" width="250" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
